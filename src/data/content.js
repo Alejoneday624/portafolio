@@ -43,8 +43,8 @@ export const projects = [
       'Trabajo de grado: sistema web de gestión de ventas, inventario y clientes con backend en Django y PostgreSQL y frontend en React, con panel de administración y generación de reportes. El original incluye autenticación; la demo desplegada es una versión reducida sin autenticación.',
     tech: ['React', 'Django', 'PostgreSQL', 'SCRUM'],
     category: 'Desarrollo web',
-    status: 'code',
-    demoUrl: 'demo',
+    status: 'demo',
+    demoUrl: 'https://florsync-demo.vercel.app',
     githubUrl: 'https://github.com/Alejoneday624/florsync_2_0', // ← repo pendiente
     extraLink: {
       label: 'Ver trabajo de grado',
