@@ -100,7 +100,7 @@ export const projects = [
       'Juego de acción en Godot (GDScript) con enemigos que te atacan, un jefe final y 2 niveles de progresión. (Edita esta descripción cuando quieras.)',
     tech: ['Godot', 'GDScript'],
     category: 'Videojuegos',
-    status: 'code',
+    status: 'demo',
     demoUrl: 'https://studio.youtube.com/video/vDU_pJGGWwo/edit',
     githubUrl: 'https://github.com/Alejoneday624/Umbra--luz-del-cosmos', // ← agrega el repo cuando lo tengas
     image: '/screenshots/umbra.png',
